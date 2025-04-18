@@ -3,8 +3,8 @@
 **introduction**
 The proposed report presents a Python project that contains an elementary 'Pet' class that shows fundamental functions and properties of pets. I can create pet objects using this class that contain attributes for name and species together with age. The code includes functions that replicate typical pet behaviors such as maintaining the need to eat and sleep alongside playing activities. The project shows practical OOP core implementation along with software design elements to sustain a maintainable codebase that keeps scalability and ease of maintenance features.
 
-**Design ptinciple and concepts**
-I will describe in this document how my Pet class implements the software design principlesss. The principles contribute to maintaining code that remains both easy to understand as well as reusable and simple to maintain. The following section explains how these principles apply to the code through my Pet class implementation.
+**Design principle and concepts**
+I will describe in this document how my Pet class implements the software design principles. The principles contribute to maintaining code that remains both easy to understand as well as reusable and simple to maintain. The following section explains how these principles apply to the code through my Pet class implementation.
 
  KISS (Keep It Simple Stupid)
 The KISS principle guides my Pet class to maintain all functionality at an easy understanding level. My Pet class contains three straightforward methods that complete their individual responsibilities by feeding the pet and putting it to sleep while also checking its tiredness status. My aim to avoid code complexity worked toward creating programming streams that are readable and accessible to beginner programmers.
